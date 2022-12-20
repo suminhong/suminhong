@@ -1,4 +1,4 @@
-<a href="https://honglab.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=appveyor&logoColor=FFFFFF"/></a>
+<a href="https://honglab.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
 
 <!--
 **suminhong/suminhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
